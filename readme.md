@@ -2,15 +2,18 @@
 
 > clone develop branch
 
+```
 cd client folder (UI)
-
 > run npm install
 > run npm start
+```
 
+```
 cd api folder (API)
 
 > run npm install
 > run npm start
+```
 
 ## `CONFIGURURATION`
 
